@@ -105,7 +105,7 @@ export default function VPNApp() {
   return (
     <View style={styles.container}>
       <LinearGradient
-        colors={['#1a1b1f', '#2d2f36']}
+        colors={['#1a1b1f', '#222529']}
         style={styles.gradient}
       >
         <ScrollView style={styles.scrollView}>
